@@ -10,8 +10,9 @@ namespace CaelumEstoque.Models
     {
         public int Id { get; set; }
 
+        [StringLengthAttribute (maximumLength:20, ErrorMessage ="Nome do produto deve conter no máximo 20 caracteres")]
         public String Nome { get; set; }
-
+        [Required]
         public float Preco { get; set; }
 
         public CategoriaDoProduto Categoria { get; set; }
