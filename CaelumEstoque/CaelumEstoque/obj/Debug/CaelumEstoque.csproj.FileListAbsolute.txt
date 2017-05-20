@@ -99,3 +99,5 @@ C:\Users\ericr\Source\Repos\probable-system\CaelumEstoque\CaelumEstoque\bin\Syst
 C:\Users\ericr\Source\Repos\probable-system\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.csprojResolveAssemblyReference.cache
 C:\Users\ericr\Source\Repos\probable-system\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.dll
 C:\Users\ericr\Source\Repos\probable-system\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.pdb
+C:\Users\ericr\Source\Repos\probable-system\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.Migrations.inicial.resources
+C:\Users\ericr\Source\Repos\probable-system\CaelumEstoque\CaelumEstoque\obj\Debug\CaelumEstoque.csproj.GenerateResource.Cache
